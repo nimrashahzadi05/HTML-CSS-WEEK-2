@@ -1,0 +1,159 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+nav {
+    width: 100%;
+}
+header {
+    background: rgba(0,0,0,0.8);
+    min-width: 1124px;
+    max-height: 44px;
+    height: 48px;
+}
+a {
+    color: white;
+    
+}
+li a {
+    text-decoration: none;
+}
+/* unicef */
+.logo {
+    text-align: center;
+    justify-content: center;
+
+}
+.logo a {
+    color: blue;
+
+}
+.logo div {
+    background-color: #f5f5f7;
+    height: 72px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/* new section */
+.iphone {
+      
+      text-align: center;
+      justify-content: center;
+      width: 100%;
+      height: 650px;
+      display: flex;
+      background-repeat: no-repeat;
+      padding-top: 100px;
+      background-position: center;
+      background-image: url(../apple-website/iphone13.jpg);
+}
+.iphone a {
+    color: blue;
+}
+/* new section */
+.macbook {
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.macbook a {
+    color: blue;
+}
+.macbook {
+    width: 100%;
+    height: 650px;
+    background-image: url(https://www.apple.com/v/home/aq/images/heroes/macbook-air/hero_macbookair__el7scava26mq_large.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-position: center;
+    
+}
+
+/* back to school start */
+.laptop {
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 650px;
+    display:flex;
+    margin-right: 120px;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-position: center;
+    background-image: url(../apple-website/laptop.jpg);
+    
+}
+.laptop a {
+    color: blue;
+}
+/* new section */
+.ip13 {
+    text-align: center;
+    justify-content: center;
+    height: 650px;
+    width: 50%;
+    display: flex;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-position: center;
+    background-image: url(../apple-website/ip\ 13.jpg);
+}
+.ip13 a {
+    color: blue;
+}
+.pro13 {
+    text-align: center;
+    justify-content: center;
+    color: #f5f5f7;
+    height: 650px;
+    width: 50%;
+    display: flex;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-position: center;
+    background-image: url(../apple-website/laptop2.jpg);
+}
+.pro13 a {
+    color: blue;
+}
+.laptop2 {
+    display: flex;
+}
+.watch {
+    text-align: center;
+    justify-content: center;
+    height: 650px;
+    width: 100%;
+    display: flex;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-position: center;
+    background-image: url(../apple-website/watch.jpg);
+}
+.watch a {
+    color: blue;
+}
+.watch h4 {
+
+}
+
+
+    
+    
+
+
+
